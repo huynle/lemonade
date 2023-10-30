@@ -8,7 +8,7 @@ import (
 
 	"github.com/huynle/lemonade/client"
 	"github.com/huynle/lemonade/lemon"
-	"github.com/lemonade-command/lemonade/server"
+	"github.com/huynle/lemonade/server"
 )
 
 var logLevelMap = map[int]log.Lvl{

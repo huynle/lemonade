@@ -19,12 +19,12 @@ Installation
 ------------
 
 ```sh
-go get -d github.com/lemonade-command/lemonade
-cd $GOPATH/src/github.com/lemonade-command/lemonade/
+go get -d github.com/huynle/lemonade
+cd $GOPATH/src/github.com/huynle/lemonade/
 make install
 ```
 
-Or download from [latest release](https://github.com/lemonade-command/lemonade/releases/latest)
+Or download from [latest release](https://github.com/huynle/lemonade/releases/latest)
 
 
 Example of use
@@ -200,7 +200,7 @@ $ ssh -R 2489:127.0.0.1:2489 user@host
 See:
 
 - [SSH/OpenSSH/PortForwarding - Community Help Wiki](https://help.ubuntu.com/community/SSH/OpenSSH/PortForwarding)
-- [WOW! and security? · Issue #14 · lemonade-command/lemonade](https://github.com/lemonade-command/lemonade/issues/14#)
+- [WOW! and security? · Issue #14 · huynle/lemonade](https://github.com/huynle/lemonade/issues/14#)
 
 
 

@@ -13,7 +13,7 @@ import (
 
 	"github.com/huynle/lemonade/lemon"
 	"github.com/huynle/lemonade/param"
-	"github.com/lemonade-command/lemonade/server"
+	"github.com/huynle/lemonade/server"
 )
 
 type client struct {
