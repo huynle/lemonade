@@ -12,7 +12,7 @@ Lemonade is a remote utility tool.
 Maintainers wanted
 ==========
 
-See https://github.com/lemonade-command/lemonade/issues/25
+See https://github.com/huynle/lemonade/issues/25
 
 
 Installation

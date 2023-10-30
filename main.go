@@ -7,7 +7,7 @@ import (
 	log "github.com/inconshreveable/log15"
 
 	"github.com/huynle/lemonade/client"
-	"github.com/lemonade-command/lemonade/lemon"
+	"github.com/huynle/lemonade/lemon"
 	"github.com/lemonade-command/lemonade/server"
 )
 

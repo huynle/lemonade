@@ -12,7 +12,7 @@ import (
 	log "github.com/inconshreveable/log15"
 
 	"github.com/huynle/lemonade/lemon"
-	"github.com/lemonade-command/lemonade/param"
+	"github.com/huynle/lemonade/param"
 	"github.com/lemonade-command/lemonade/server"
 )
 

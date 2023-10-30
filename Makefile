@@ -4,7 +4,7 @@ build:
 	go build -ldflags "-s -w -X github.com/huynle/lemonade/lemon.Version=$(VERSION)"
 
 install:
-	go install -ldflags "-s -w -X github.com/lemonade-command/lemonade/lemon.Version=$(VERSION)"
+	go install -ldflags "-s -w -X github.com/huynle/lemonade/lemon.Version=$(VERSION)"
 
 release:
 	gox --arch 'amd64 386' --os 'windows linux darwin' --output "dist/{{.Dir}}_{{.OS}}_{{.Arch}}/{{.Dir}}" -ldflags "-s -w -X github.com/lemonade-command/lemonade/lemon.Version=$(VERSION)"
