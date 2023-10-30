@@ -2,7 +2,7 @@ package server
 
 import (
 	"github.com/atotto/clipboard"
-	"github.com/lemonade-command/lemonade/lemon"
+	"github.com/huynle/lemonade/lemon"
 )
 
 type Clipboard struct{}

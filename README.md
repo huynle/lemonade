@@ -7,7 +7,7 @@ remote...lemote...lemode......Lemonade!!! :lemon: :lemon:
 Lemonade is a remote utility tool.
 (copy, paste and open browser) over TCP.
 
-[![Build Status](https://travis-ci.org/lemonade-command/lemonade.svg?branch=master)](https://travis-ci.org/lemonade-command/lemonade)
+[![Build Status](https://travis-ci.org/huynle/lemonade.svg?branch=master)](https://travis-ci.org/huynle/lemonade)
 
 Maintainers wanted
 ==========
