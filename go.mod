@@ -1,4 +1,4 @@
-module github.com/lemonade-command/lemonade
+module github.com/huynle/lemonade
 
 go 1.16
 
